@@ -105,4 +105,11 @@ This repository contains the Power BI dashboard and supporting code I developed 
 
 ---
 
-> 📣 **For more details**, open the PDF export or explore the interactive PBIX file in Power BI Service.  
+> 📣 **For more details**, open the PDF export or explore the interactive PBIX file in Power BI Service.
+
+---
+
+## 👀 Important Links
+
+- **GitHub Repositories:** https://github.com/KoKoustav/acadia.io-internship-assessment/tree/master
+- **Linkedin:** https://www.linkedin.com/in/coderkoustav/
